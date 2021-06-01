@@ -1,0 +1,4 @@
+
+object Properties {
+  val javaFxPath = ("c" \ "javafx" \ "lib").toString
+}
